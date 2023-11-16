@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "front": "red",
+        "back": "красный",
+        "setId": "colours"
+    },
+    {
+        "id": 2,
+        "front": "blue",
+        "back": "синий",
+        "setId": "colours"
+    },
+    {
+        "id": 3,
+        "front": "yellow",
+        "back": "жёлтый",
+        "setId": "colours"
+    },
+    {
+        "id": 4,
+        "front": "green",
+        "back": "зелёный",
+        "setId": "colours"
+    },
+    {
+        "id": 5,
+        "front": "cyan",
+        "back": "бирюзовый",
+        "setId": "colours"
+    },
+    {
+        "id": 6,
+        "front": "magenta",
+        "back": "маджента",
+        "setId": "colours"
+    },
+    {
+        "id": 7,
+        "front": "white",
+        "back": "белый",
+        "setId": "colours"
+    },
+    {
+        "id": 8,
+        "front": "black",
+        "back": "черный",
+        "setId": "colours"
+    },
+    {
+        "id": 9,
+        "front": "gray",
+        "back": "серый",
+        "setId": "colours"
+    },
+    {
+        "id": 10,
+        "front": "Scattergun",
+        "back": "Scout's stock shotgun",
+        "setId": "tf2"
+    },
+    {
+        "id": 11,
+        "front": "Direct Hit",
+        "back": "Soldier's rocket launcher. Deals no splash damage, but increased damage on direct hits",
+        "setId": "tf2"
+    },
+    {
+        "id": 12,
+        "front": "Bazaar Bargain",
+        "back": "Sniper's sniper rifle that increases it's charge up time based on the amoun of headshots that have been achieved this life",
+        "setId": "tf2"
+    },
+    {
+        "id": 13,
+        "front": "Axetinguisher",
+        "back": "Pyro's axe that Crits when hitting burning enemies and gives a speedboost upon killing them",
+        "setId": "tf2"
+    },
+    {
+        "id": 14,
+        "front": "Crusader's Crossbow",
+        "back": "Medic's crossbow. Heals when teammates are hit and deals damage when hit enemies",
+        "setId": "tf2"
+    }
+]

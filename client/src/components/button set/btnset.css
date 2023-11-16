@@ -1,0 +1,25 @@
+.list-set_item{
+    border: 10px solid rgb(75, 127, 204);
+    border-radius: 20%;
+    margin: 10px;
+    background-color: #216ad7;
+    max-width: 40%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+.list-set_btn{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
